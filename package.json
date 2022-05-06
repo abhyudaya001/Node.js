@@ -1,7 +1,7 @@
 {
-  "name": "node-demo",
+  "name": "demo",
   "version": "1.0.0",
-  "description": "",
+  "description": "Node js package.json",
   "main": "FirstAPIwithHttpModule.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,6 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "chalk": "^4.1.2",
     "nodemailer": "^6.7.5"
   },
   "devDependencies": {
